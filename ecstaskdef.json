@@ -54,6 +54,6 @@
     },
     "registeredAt": "2025-02-04T19:14:43.203Z",
     "registeredBy": "arn:aws:iam::471112647477:user/tawfik-admin",
-#    "enableFaultInjection": false,
+    "enableFaultInjection": true,
     "tags": []
 }
