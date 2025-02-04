@@ -14,6 +14,7 @@
             "systemControls": []
         }
     ],
+
     "family": "myecstaskdef",
     "taskRoleArn": "arn:aws:iam::471112647477:role/ecsTaskExecutionRole",
     "executionRoleArn": "arn:aws:iam::471112647477:role/ecsTaskExecutionRole",
